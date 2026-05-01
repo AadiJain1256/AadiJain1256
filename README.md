@@ -68,7 +68,20 @@
 * 🧠 Model: Naive Bayes / Logistic Regression
 *  🌐 Live Demo: https://spam-classifier-aj.streamlit.app/
 *  💻 GitHub Repo: https://github.com/AadiJain1256/Spam-Classifier
+  
+
+#### 📌 AI Interview System
+* Simulates interview questions using AI
+* Stores and evaluates user responses
+* Tech: Python, AI/ML, (add tools you used)
+* 💻 GitHub Repo: https://github.com/AadiJain1256/Ai-Interview-system
+
+#### 📌 To-Do Web App (Flask Project)
+* Task management web app with CRUD operations
+* Add, update, delete daily tasks
+* Tech: Flask, HTML, CSS
+* 💻 GitHub Repo: https://github.com/AadiJain1256/flask-todo-app
+
 
 ---
-
 <!-- Add more projects below this line -->
