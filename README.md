@@ -8,10 +8,10 @@
 
 ### 👨‍💻 About Me
 
-* 🌱 Currently learning **Machine Learning, DSA & Backend Development**
+* 🌱 Building **AI/ML applications** with **Python, Flask, and Scikit-learn**
 * 💡 Interested in **AI, NLP & Real-world Problem Solving**
 * 🚀 Built projects using **Python, Scikit-learn & Streamlit**
-* ⚡ Focused on **placement-level preparation**
+* ⚡ Focused on **AI/ML development** and **real-world project building**
 
 ---
 
@@ -20,10 +20,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/YOUR-LINK" target="blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-</a>
-
-<a href="https://instagram.com/YOUR-USERNAME" target="blank">
-<img src="https://skillicons.dev/icons?i=instagram" height="40"/>
 </a>
 
 <a href="mailto:your@email.com">
@@ -61,11 +57,18 @@
 
 ### 🚀 Projects
 
-#### 📌 Spam Classifier (NLP Project)
+### 📌 House Price Prediction
+- Predicts house prices using Machine Learning models
+- Performed EDA, data preprocessing, and feature engineering
+- Models Used: Linear Regression, Decision Tree
+* 🌐 Live Demo: https://house-price-prediction-aj.streamlit.app/
+* 💻 GitHub Repo: https://github.com/AadiJain1256/House-Price-Prediction
 
-* 🔍 Detects spam messages using Machine Learning
-* 📊 Accuracy: **(add your accuracy here)**
-* 🧠 Model: Naive Bayes / Logistic Regression
+### 📌 Spam Classifier (NLP Project)
+- Detects spam messages using Machine Learning
+- Implemented TF-IDF vectorization and text preprocessing
+- Evaluated using accuracy, precision, and recall metrics
+- Model: Naive Bayes / Logistic Regression
 *  🌐 Live Demo: https://spam-classifier-aj.streamlit.app/
 *  💻 GitHub Repo: https://github.com/AadiJain1256/Spam-Classifier
   
