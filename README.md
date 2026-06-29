@@ -12,6 +12,7 @@
 * 💡 Interested in **AI, NLP & Real-world Problem Solving**
 * 🚀 Built projects using **Python, Scikit-learn & Streamlit**
 * ⚡ Focused on **AI/ML development** and **real-world project building**
+* Following the NeetCode 150 roadmap while building strong algorithmic intuition and interview-ready problem-solving skills.
 
 ---
 
